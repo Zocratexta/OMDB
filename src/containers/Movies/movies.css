@@ -1,0 +1,28 @@
+#movieSearch {
+    padding-top: 50px;
+}
+.titleSearch{
+    color: #dfad31;
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: 300;
+    margin-left: 70px;
+    padding: 20px
+}
+.movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.movies {
+    padding: 10px;
+}
+
+.movieTitle{
+    color: white;
+    padding: 10px;
+    text-decoration:none;
+}
+

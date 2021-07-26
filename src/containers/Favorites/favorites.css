@@ -1,0 +1,39 @@
+.titleFav {
+    color: #dfad31;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    margin: 20px;
+}
+.favorites {
+    display: flex;
+    padding-bottom: 100px;
+    margin: 0 auto;
+    padding-left: 50px;
+    color: white;
+    flex-direction: column;
+}
+
+.favoriteItem {
+    padding-left: 70px;
+}
+
+.favoriteItem img {
+    width: 150px;
+    height: 220px;
+    padding: 10px;
+}
+
+.removeButton {
+    width: 100px;
+    height: 40px;
+    background-color: #8b0000;
+    color: white;
+    outline: none;
+    border-radius: 8px;
+    border-color: #6f0000;
+    text-transform: uppercase;
+    font-weight: bolder;
+    cursor: pointer;
+
+}

@@ -1,0 +1,25 @@
+.user {
+    color: white;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    margin: 20px;
+
+}
+.profile {
+    display: flex;
+    padding-bottom: 100px;
+    margin: 0 auto;
+    flex-direction: column;
+    color: white;
+    padding-left: 100px;
+}
+
+.userItem img{
+    width: 150px;
+    height: 220px;
+}
+
+.titleUser {
+    color: #dfad31;
+}
