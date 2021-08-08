@@ -13,7 +13,7 @@
 
 ### 🏠 [Homepage](homepage)
 
-### ✨ [Demo]('./public/demo-screen.png')
+### ✨ [Demo](https://raw.githubusercontent.com/Zocratexta/OMDB/main/public/demo-screen.png)
 
 ## Install
 
