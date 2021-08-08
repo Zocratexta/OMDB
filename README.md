@@ -1,23 +1,39 @@
-![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)
+<h1 align="center">Welcome to OMDB 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="url" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="url" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-# 25 - OMDB
+> movies
 
-### Must have.
+### 🏠 [Homepage](homepage)
 
-- Buscar películas y listarlas.
-- Poder ver los detalles de una película en particular.
-- Crear Usuarios.
-- Loggearse y desloggearse con un usuario.
+### ✨ [Demo]('./public/demo-screen.png')
 
-### Should have.
+## Install
 
-- Poder agregar una película a tu lista de favoritos.
-- Ver tu lista de películas favoritas.
-- Poder sacar películas de tu lista de favoritos.
+```sh
+npm install
+```
 
-### Nice to have.
+## Usage
 
-- Buscar Usuarios.
-- Ver el perfil de un usuario con sus películas favoritas.
+```sh
+npm start
+```
 
-Para más información busquen en [Pledu](https://pledu.plataforma5.la/modules/e2b1ace6-8de6-4b10-a025-647583402a8a)
+## Author
+
+👤 **Luis Osorio**
+
+* Website: zocratexta.github.io/luisosorio
+* Github: [@Zocratexta](https://github.com/Zocratexta)
+* LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
