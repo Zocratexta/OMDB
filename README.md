@@ -1,4 +1,4 @@
-<h1 align="center">Proyect OMDB</h1>
+<h1 align="center">OMDB</h1>
 
 > Web app to search and obtain movie information, login user and add to favorites, using the OMDb API.
 
