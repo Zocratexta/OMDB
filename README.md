@@ -2,7 +2,7 @@
 
 > Web app to obtain movie information using the OMDb API
 
-### ✨ [Demo]
+### ✨ Demo
 
 <img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/OMDB/main/public/demo-screen.png" />
 
