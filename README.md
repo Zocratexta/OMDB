@@ -1,10 +1,8 @@
-<h1 align="center">Welcome to OMDB 👋</h1>
+<h1 align="center">Proyect OMDB</h1>
 
-> movies
+> Web app to obtain movie information using the OMDb API
 
-### 🏠 [Homepage]()
-
-### ✨ [Demo]()
+### ✨ [Demo]
 
 <img alt="demo" src="https://raw.githubusercontent.com/Zocratexta/OMDB/main/public/demo-screen.png" />
 
@@ -24,9 +22,9 @@ npm start
 
 👤 **Luis Osorio**
 
-* Website: zocratexta.github.io/luisosorio
 * Github: [@Zocratexta](https://github.com/Zocratexta)
 * LinkedIn: [@Luis Osorio](https://linkedin.com/in/luisosorio-dev)
+* [Website](https://zocratexta.github.io/luisosorio)
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
