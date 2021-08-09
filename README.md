@@ -1,6 +1,6 @@
 <h1 align="center">Proyect OMDB</h1>
 
-> Web app to obtain movie information using the OMDb API
+> Web app to search and obtain movie information, login user and add to favorites, using the OMDb API.
 
 ### ✨ Demo
 
